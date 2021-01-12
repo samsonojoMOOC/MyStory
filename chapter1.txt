@@ -1,1 +1,1 @@
-This is a story about GIt.
+This is a story about GItHub. However, you forgot to talk about Gitlab and BitBucket.
